@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 
 // Import the 'fs' module for file system operations
